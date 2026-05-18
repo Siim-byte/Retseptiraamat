@@ -7,11 +7,9 @@ namespace Retseptiraamat
         public App()
         {
             InitializeComponent();
+
+            MainPage = new Pealeht();
         }
 
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new AppShell());
-        }
     }
 }
