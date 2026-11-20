@@ -14,7 +14,7 @@ C# rakendus retseptide salvestamiseks, otsimiseks ja haldamiseks. Projekti eesm�
 ##  Käivitamine
 1. Klooni repositoorium:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Siim-byte/Retseptiraamat.git
    ```
 2. Ava projekt Visual Studios ja käivita rakendus (`F5`).
 
