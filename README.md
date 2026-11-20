@@ -19,4 +19,4 @@ C# rakendus retseptide salvestamiseks, otsimiseks ja haldamiseks. Projekti eesm�
 2. Ava projekt Visual Studios ja käivita rakendus (`F5`).
 
 ## 👤 Autor
-**Siim Beloi** – [GitHub](https://github.com)
+**Siim Belõi** – [GitHub](https://github.com/siim-byte)
